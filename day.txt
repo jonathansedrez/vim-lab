@@ -1,0 +1,11 @@
+This is a plain text to validate some ideas.
+
+Movment commands: j,k,l,m;
+Got to line: $ and 0;
+Go to start/end: GG / gg;
+
+- [x] Type a base file;
+- [x] Movment commands;
+- [x] Go line;
+- [x] Go to end/start;
+ 
