@@ -1,0 +1,17 @@
+Thiss is a txt file with lots of erros and typos.
+It should looks really bad, so you can pratice fixing it on VIm.
+
+Somelines dont even have spaces
+likeThisone right here.
+
+other lines have too many spaces.
+
+
+Some lInes have bad Capitalization.
+others have Missing punctuation
+and some have unwanted symbols!!!@@
+
+The goal is too make this text clean and readble
+and to use only delete (d), change (c), and replace (r) commands.
+
+you can also try undo and redo to test your memory muscle in vim
